@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/oblivion/mudcrab/mcrb3"
+	"$bumpmap" 	"models/oblivion/mudcrab/mcrb3_n"
+
+	$phong			1
+	$phongexponent		50
+	$phongboost		1.0
+	$phongfresnelranges	"[0.2 0.5 1]"
+}
